@@ -10,5 +10,4 @@ setmetatable(test, {
     end
 })
 
-getgenv().test = test
 return test
